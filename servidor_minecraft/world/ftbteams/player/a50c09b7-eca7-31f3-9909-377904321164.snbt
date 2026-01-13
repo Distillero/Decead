@@ -1,0 +1,17 @@
+{
+	id: "a50c09b7-eca7-31f3-9909-377904321164"
+	type: "player"
+	player_name: "Distillero"
+	ranks: {
+		a50c09b7-eca7-31f3-9909-377904321164: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Distillero"
+		"ftbteams:description": ""
+		"ftbteams:color": "#71FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
